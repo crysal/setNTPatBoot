@@ -28,7 +28,7 @@ for ($i = 1; $i -le $maxRetries; $i++) {
         $correctedDateTime = "$month/$day/$year $hour`:$min`:$sec"
 		
         Write-Host "Parsed NTP time: $correctedDateTime"
-        Set-Date -Date $correctedDateTime -WhatIf
+        Set-Date -Date $correctedDateTime
         $success = $true
         break
     } else {
