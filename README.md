@@ -23,7 +23,7 @@ if successfull press "OK".. if not, figure out what your administrator account i
 
 
 
-change tap to triggers
+change tab to triggers
 
 click "New..."
 
@@ -32,7 +32,7 @@ change "Begin the task" to "At startup" or "At logon" if you never powerdown you
 click "OK"
 
 
-change tap to actions
+change tab to actions
 
 click "New..."
 
