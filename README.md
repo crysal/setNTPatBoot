@@ -48,3 +48,6 @@ Press OK
 
 
 It should now be setup
+
+
+If you are not wanting to use the 0.dk.pool.ntp.org server then go into the .ps1 file and change that to match your desires
